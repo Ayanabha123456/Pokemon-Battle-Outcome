@@ -20,3 +20,4 @@ Download the moves.csv, pokemon.csv, type-chart.csv and Pokemon.ipynb
 After that run your code in Jupyter Notebook to see the data analytics and the model built
 
 ## (Note: You can refer to the additional README in the files section for better guidance)
+## (The HTML file in the files section contains a sample test case output)
